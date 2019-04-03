@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hello this is takeshi!
+This is my first Github entry and first commits.
+Let me know if there is something wrong.
